@@ -1,0 +1,1 @@
+export * as $static from './static'; // static은 예약어라서 $를 붙여 사용해야 한다
